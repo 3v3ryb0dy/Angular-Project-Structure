@@ -27,7 +27,7 @@
         |-- [+] directives
         |-- [+] pipes
         |-- [+] models
-	    |-- [+] state
+	|-- [+] state
      |
      |-- [+] configs
 |-- assets
