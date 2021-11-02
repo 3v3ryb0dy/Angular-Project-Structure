@@ -18,6 +18,7 @@
         |-- [+] mocks
         |-- [+] services
         |-- [+] header
+	|-- [+] state
         |-- core.module.ts
         |-- ensureModuleLoadedOnceGuard.ts
         |-- logger.service.ts
@@ -27,7 +28,6 @@
         |-- [+] directives
         |-- [+] pipes
         |-- [+] models
-	|-- [+] state
      |
      |-- [+] configs
 |-- assets
